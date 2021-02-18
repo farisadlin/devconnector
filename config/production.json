@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://faris_adlin:bO34CtVlVdaDYDb0@devconnector.ab9y0.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken",
+    "githubClientId": "a353d84ce47a55a7a4b2",
+    "githubSecret": "0092fe5798099e56c3ad4d5b9cd38d60d86bb05c"
+}
